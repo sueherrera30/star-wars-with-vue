@@ -1,0 +1,22 @@
+
+estoy leyendo sobre algunos temas de vue y quise relacionarlo un poco con lo que hacias con red privada,
+todo fue como muy intuitivo, disculpa que todo esta muy mal.
+entonces veo que es necesario resolver estas dudas básicas para que esto funcione y poco a poco ir agregando cosas al ejercicio.
+espero pronto aprender lo básico para realizar estoy ejercicios de una forma mas rápida ni con tantos errores.
+El objetivo es poder en primer plano hacer una petición, y agregarla al select.
+despues a ver que más se me ocurre con forme a lo que vaya leyendo.
+
+-dudas generales:
+
+1.- hay alguna modificación al instalar mazorca?
+
+no logre hacerlo correctamente y no se instalaron las carpetas sass ni la de js.
+(instale deforma global, luego en el proyecto boilerplate ya no pude por que notuve carpeta sass).
+
+2.- ¿debo levantar un servidor para poder usar gulp watch y webpack?
+
+3.- instale vue ,axios y hyperscript con npm, no se si estoy importando mal , no me funcionan  perdón :(
+
+4.- ¿Cómo agrego correctamente  hyperscript?
+
+5.- debido a que estoy poniendo mal axios, no puedo ver si realizo correctmente la petición.
